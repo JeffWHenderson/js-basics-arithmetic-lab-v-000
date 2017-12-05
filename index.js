@@ -2,4 +2,4 @@
 
 // Write your code below this line!
 let newID = oldID + 1000000000;
-let ageIsValid = NumberIsInteger(currentAge);
+let ageIsValid = Number.IsInteger(currentAge);
